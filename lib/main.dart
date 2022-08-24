@@ -25,7 +25,7 @@ class UiTrace1 extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Expanded(child: Container()),
+          Expanded(flex: 3, child: Container()),
           Container(
             height: 120,
             width: 120,
@@ -60,7 +60,7 @@ class UiTrace1 extends StatelessWidget {
             ),
             textAlign: TextAlign.center,
           ),
-          Expanded(child: Container()),
+          Expanded(flex: 2, child: Container()),
           Container(
             height: 50,
             width: double.infinity,
