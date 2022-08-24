@@ -4,5 +4,5 @@
 
 ## 今回のUIトレースで実装したUI
 このコードをコピペしたら以下のUIが表示されます！
-https://user-images.githubusercontent.com/85224998/186398399-e39b8987-f7f2-43dc-9ddb-5ddf4d292f1f.png
+![Simulator Screen Shot - iPhone 11 Pro Max - 2022-08-24 at 19 33 59](https://user-images.githubusercontent.com/85224998/186399295-4e2ab037-566d-4449-8ac2-9260e159519b.png)
 
