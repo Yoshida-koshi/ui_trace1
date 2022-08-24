@@ -1,17 +1,8 @@
 # ui_trace1
 
-A new Flutter project.
+8月24日で行われた定例会のUiトレースで実装したコードを載せています。
 
-## Getting Started
+## 今回のUIトレースで実装したUI
+このコードをコピペしたら以下のUIが表示されます！
+https://user-images.githubusercontent.com/85224998/186398399-e39b8987-f7f2-43dc-9ddb-5ddf4d292f1f.png
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ui_trace1
